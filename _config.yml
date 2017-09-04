@@ -1,7 +1,7 @@
 
 title: Mayanka Sheoran
-url: 'http://Mayanka-Sheoran.github.io'
-baseurl: '/mayanka-sheoran' #change it according to your repository name
+url: 'http://mayanka.co'
+baseurl: '' #change it according to your repository name
 
 
 # Enable one of these styles by removing #. Style will be applied only after restarting the build or serve.
@@ -14,7 +14,7 @@ style: styles-6
 
 #Profile information
 name: Mayanka Sheoran
-tagline: Fronend Developer, Mckinsey Digital Labs
+tagline: Frontend Developer, Mckinsey Digital Labs
 pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
